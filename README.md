@@ -5,9 +5,11 @@
 </p>
 
 <h3>🛠️ Tecnologias e Ferramentas</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=9D4EDD&border_color=7209B7" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=9D4EDD" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=9D4EDD" alt="React" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=9D4EDD" alt="Docker" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=9D4EDD" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=9D4EDD" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=9D4EDD" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=9D4EDD" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=9D4EDD" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=9D4EDD" alt="Arduino" />
 </p>
