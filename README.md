@@ -6,10 +6,10 @@
 
 <h3>🛠️ Tecnologias e Ferramentas</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=9D4EDD" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=9D4EDD" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=9D4EDD" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=9D4EDD" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=9D4EDD" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=9D4EDD" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
