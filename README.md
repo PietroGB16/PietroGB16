@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pietro-gomes-62597236b/?skipRedirect=true" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/pietro-gomes-62597236b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=9D4EDD" alt="LinkedIn" />
   </a>
 </p>
